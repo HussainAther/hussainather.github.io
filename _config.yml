@@ -60,8 +60,7 @@ roles:
    start: 2014
    end: 2014
    employer: Boyce Thompson Institute
-   description: Performed RNA-Seqanalysis using Tuxedo suite on tomatoes to extract genetic information. Explored mechanisms behind transcription and protein synthesis.
-– Implemented novel algorithms to optimize run-times of virus detection software.
+   description: Performed RNA-Seqanalysis using Tuxedo suite on tomatoes to extract genetic information. Explored mechanisms behind transcription and protein synthesis. Implemented novel algorithms to optimize run-times of virus detection software.
  - title: Undergraduate Research Assistant
    start: 2013
    end: 2017
