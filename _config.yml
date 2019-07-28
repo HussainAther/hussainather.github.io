@@ -90,17 +90,17 @@ github:
  - NCBI-Hackathons/seqacademy
 
 intro: |
-  I am a researcher-writer in neurosicence and philosophy. I strive to take a quantitative approach to researching to the natural world. Through mathematical, quantitiative, and computational approaches, I hope to create a greater understanding of the computational theory of mind through research that can give rise to revolutionary, innovative theories.
-  As Immanuel Kant said, studying concepts of the mind without empirical science is empty and studying science without philosophy is blind. As an undergraduate, I studied physics and philosophy. This prepared me for taking many different approaches to thinking about problems as well as understanding the basics of philosophy of science that underlie computational neuroscience research. 
-  This has given me an understanding of theories of connectionism, classicalism, and other philosophical ideas relevant to neuroscience as well as how research in the philosophy of mind reflects findings in neuroscience. I want to continue to engage in the history and philosophy of computational neuroscience by, for example, critiquing the cybernetic idealism that Warren McCulloch and 
-  Walter Pitts first described in the 1940 or the representations of AI as symbolic or connectionist over the past century. 
+  I am a researcher-writer in neurosicence and philosophy. I strive to take a quantitative approach to researching to the natural world. Through mathematical, quantitiative, and computational approaches, I hope to create a greater understanding of the computational theory of mind through research that can give rise to revolutionary, innovative theories.<br/><br/>
+  As Immanuel Kant said, studying concepts of the mind without empirical science is empty and studying science without philosophy is blind. As an undergraduate, I studied physics and philosophy. This prepared me for taking many different approaches to thinking about problems as well as understanding the basics of philosophy of science that underlie computational neuroscience research. <br/><br/>
+  This has given me an understanding of theories of connectionism, classicalism, and other philosophical ideas relevant to neuroscience as well as how research in the philosophy of mind reflects findings in neuroscience. I want to continue to engage in the history and philosophy of computational neuroscience by, for example, critiquing the cybernetic idealism that Warren McCulloch and<br/><br/> 
+  Walter Pitts first described in the 1940 or the representations of AI as symbolic or connectionist over the past century. <br/><br/>
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
    <strong>Python</strong>: I primarily use python for most of my programming including data extraction, visualization, and software engineering.<br/><br/>
    <strong>R</strong>: I have used R for statistics, machine learning, and data science techniques in situations where R is more efficient or effective than Python. <br/><br/>
    <strong>MATLAB</strong> I have used MATLAB for computation-heavy procedures in neuroscience as they benefit the field of computational neuroscience for giving reserachers new tools to study empirical data. <br/><br/>
-   <strong>Haskell</strong>: I have used Haskell to understand programming language theory and perform mathematical computations on large sets of dat.<br/><br/>
+   <strong>Haskell</strong>: I have used <a href="https://github.com/HussainAther/Haskell">Haskell</a> to understand programming language theory and perform mathematical computations on large sets of dat.<br/><br/>
    <strong>Data Science</strong>: Through these approahces to understand the mathematics, physics, and computer science of biology and neuroscience, I have performed data science techniques and critiqued methods as they relate to artificial intelilgence, machine learning, and other digital philosophy.<br/><br/>
    <strong>Software Engineering</strong>: I have a good knowledge of creating applications and similar files for software in bioinformatics and computational neuroscience.<br/><br/>
    I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including C and programming contests through Rosalind.<br/><br/>
