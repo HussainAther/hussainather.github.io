@@ -46,22 +46,22 @@ blogfeed: https://hussainather.com/feed/json
 
 #Work experience is required
 roles:
- - title: Post-baccalaureate Researcher
+ - title: Researcher
    start: 2017
    end: 2019
    employer: National Institutes of Health
    description: Created a Snakemake workflow for performing ChIP-Seq, RNA-Seq differential splicing, and colocalization analysis from FASTQ files through called peaks which is run in parallel on NIH’s Biowulf cluster. Performed Fisher’s exact test and Jaccard index in detecting colocalization events. Used deeptools and bedtools in determining the differences between peak-callers. Detected and fixed errors in PeakSeg supervised peak-calling algorithm. Visualized output from ChIP-Seq peak-calling algorithms to understand their differences in terms of biases, underlying assumptions, and applicability to particular datasets. Manually created labels of peak-calling output for learning a model to optimize ChIP-Seq peak-callers. Lead a group of researchers to create SeqAcademy.org, a self-guided educational tutorial for RNA-Seq and ChIP-Seq analysis. Used machine learning methods, including exploratory data analysis and feature engineering, with the goal of creating a publishable tool to decide which parameters should be used on a particular dataset.
- - title: Undergraduate Research Intern
+ - title: Intern
    start: 2015
    end: 2015
    employer: Conte Center for Computational Neuropsychiatric Genomics
    description: Performed RNA-Seq analysis using STAR aligner to analyze genetic expression for significantly expressed genes in the human brain. Updated human brain transcriptome from long reads of PacBio Iso-Seq data. Used differential equations and graphs to visualize new isoforms uncovered.
- - title: Undergraduate Research Intern
+ - title: Intern
    start: 2014
    end: 2014
    employer: Boyce Thompson Institute
    description: Performed RNA-Seqanalysis using Tuxedo suite on tomatoes to extract genetic information. Explored mechanisms behind transcription and protein synthesis. Implemented novel algorithms to optimize run-times of virus detection software.
- - title: Undergraduate Research Assistant
+ - title: Researcher
    start: 2013
    end: 2017
    employer: Indiana University-Bloomington
