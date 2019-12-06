@@ -10,8 +10,6 @@ markdown: kramdown
 primarylinks:
  - title: Personal Website
    url: http://hussainather.com
- - title: Facebook
-   url: https://www.facebook.com/shussainather
  - title: GitHub
    url: https://github.com/hussainther
  - title: LinkedIn
