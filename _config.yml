@@ -44,6 +44,11 @@ blogfeed: https://hussainather.com/feed/json
 
 #Work experience is required
 roles:
+ - title: Student
+   start: 2019
+   end: 2020
+   employer: University of California, Santa Cruz
+   description: Master's tudent in Science Communication
  - title: Researcher
    start: 2017
    end: 2019
